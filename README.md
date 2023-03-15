@@ -21,3 +21,6 @@ THEN the password is either displayed in an alert or written to the page
 Phase 1: Get prompts to appear.
 Phase 2: Get prompts to work properly when answers are inputed.
 Phase 3: Get code to work properly and input password# Module-3-challenge
+
+I cited a code I used in my Javascript for my if statements.
+My programer friend helped me get my code to work. https://github.com/joeybuenosdias
