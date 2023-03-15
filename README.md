@@ -24,3 +24,4 @@ Phase 3: Get code to work properly and input password# Module-3-challenge
 
 I cited a code I used in my Javascript for my if statements.
 My programer friend helped me get my code to work. https://github.com/joeybuenosdias
+P.S. I worked on most of my code Mar 10 & 11. Ended up in the hospital Mar 12 and was unable to finish my project until Mar 13. Was having issues commiting to the correct repo and got help on Mar 14 from a TA to submit my project correctly. I'm sorry for the one commit for the whole project!
